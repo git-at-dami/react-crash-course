@@ -38,3 +38,9 @@ root.render(React.createElement(App));
 ```
 npx serve
 ```
+
+
+### Prettier Code Formatting
+```
+"format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,css}\"",
+```
