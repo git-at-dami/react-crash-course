@@ -44,3 +44,7 @@ npx serve
 ```
 "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,css}\"",
 ```
+
+```
+npm run format
+```
