@@ -9,7 +9,7 @@ the missing react getting started
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Padre Gino's</title>
+    <title>Awesome Ecom Store</title>
   </head>
 
   <body>
@@ -26,7 +26,7 @@ const App = () => {
   return React.createElement(
     "div",
     {},
-    React.createElement("h1", {}, "Pixel Perfect Pizzas")
+    React.createElement("h1", {}, "10k Month with Ecom")
   );
 };
 
